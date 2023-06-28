@@ -1,0 +1,13 @@
+.display {
+    background: #858694;
+    color: #fff;
+    text-align: center;
+    padding: 15px 15px; 
+    width: 100%;
+    font-size: 2em;
+}
+
+.display > div {
+    font-size: 3em;
+    font-weight: bold;
+}

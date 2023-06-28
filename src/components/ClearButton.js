@@ -4,7 +4,7 @@ import { Button } from './Button'
 export const ClearButton = ({handleClick}) => {
   return (
     <div>
-        <Button onClick={handleClick} text="AC"/>
+        <Button onClick={handleClick} text="AC" green/>
     </div>
   )
 }
